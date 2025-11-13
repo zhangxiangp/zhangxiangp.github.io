@@ -1,5 +1,5 @@
 ---
-title: "C 语言程序设计"
+title: "C语言程序设计"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
