@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zhangxiangp.github.io/sitemap.xml
