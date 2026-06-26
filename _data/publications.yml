@@ -7,17 +7,20 @@ main:
     conference_short: Applied Intelligence
     conference: '<strong>Applied Intelligence</strong>, 55(6), pp. 1-17, 2025.'
     pdf: https://doi.org/10.1007/s10489-025-06315-6
+    image: /assets/img/publications/code_completion_2025.png
 
   - title: "GRRLN: Gated Recurrent Residual Learning Networks for code clone detection"
     authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Min Shi
     conference_short: JSEP
     conference: '<strong>Journal of Software: Evolution and Process</strong>, 36(7), e2649, 2024.'
     pdf: https://doi.org/10.1002/smr.2649
+    image: /assets/img/publications/grrln_2024.png
 
   - title: "A parallel deep learning-based code clone detection model"
     authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Min Shi
     conference_short: JPDC
     conference: '<strong>Journal of Parallel and Distributed Computing</strong>, 181, 104747, 2023.'
+    image: /assets/img/publications/code_clone_jpdc_2023.png
 
   - title: "A mutual embedded self-attention network model for code search"
     authors: Haiyang Hu, Jianxun Liu, <strong>Xiangping Zhang*</strong>, Buqing Cao, Shuang Cheng, Tao Long
@@ -36,18 +39,21 @@ main:
     conference_short: Pattern Recognition
     conference: '<strong>Pattern Recognition</strong>, 139, 109404, 2023.'
     pdf: https://doi.org/10.1016/j.patcog.2023.109404
+    image: /assets/img/publications/kmeans_2023.png
 
   - title: "A novel hybrid model for short-term prediction of wind speed"
     authors: Haiyang Hu, Yang Li, <strong>Xiangping Zhang*</strong>, Mingyu Fang
     conference_short: Pattern Recognition
     conference: '<strong>Pattern Recognition</strong>, 127, 108623, 2022.'
     pdf: https://doi.org/10.1016/j.patcog.2022.108623
+    image: /assets/img/publications/wind_speed_2022.png
 
   - title: "Web service classification based on information gain theory and bidirectional long short-term memory with attention mechanism"
     authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Buqing Cao, Min Shi
     conference_short: CCPE
     conference: '<strong>Concurrency and Computation: Practice and Experience</strong>, 33(13), e6202, 2021.'
     pdf: https://doi.org/10.1002/cpe.6202
+    image: /assets/img/publications/ws_classification_2021.png
 
   - title: "Tatt-BiLSTM: Web service classification with topical attention-based BiLSTM"
     authors: Guangxue Kang, Yu Xiao, Jianxun Liu, Yulei Cao, Buqing Cao, Xiangping Zhang, Liang Ding
@@ -62,6 +68,7 @@ main:
     conference_short: CollaborateCom
     conference: 'International Conference on Collaborative Computing <strong>(CollaborateCom)</strong>, pp. 303-322, 2023.'
     pdf: https://doi.org/10.1007/978-3-031-54521-4_18
+    image: /assets/img/publications/code_completion_collab_2023.png
 
   - title: "A Code Search Method Incorporating Code Annotations"
     authors: Qingyao Li, Jianxun Liu, Xiangping Zhang
@@ -79,11 +86,13 @@ main:
     authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Buqing Cao, Min Shi
     conference_short: SCC
     conference: 'IEEE International Conference on Services Computing <strong>(SCC)</strong>, pp. 34-43, 2021.'
+    image: /assets/img/publications/ws_embedding_2021.png
 
   - title: "Web service recommendation via combining Doc2Vec-based functionality clustering and DeepFM-based score prediction"
     authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Buqing Cao, Qiaoxiang Xiao, Yi Wen
     conference_short: ISPA
     conference: 'IEEE Intl Conf on Parallel & Distributed Processing with Applications <strong>(ISPA)</strong>, pp. 509-516, 2018.'
+    image: /assets/img/publications/ws_recommendation_2018.png
 
   - title: "A prior knowledge based approach to improving accuracy of web services clustering"
     authors: Min Shi, Jianxun Liu, Buqing Cao, Yi Wen, Xiangping Zhang
@@ -96,22 +105,26 @@ main:
     authors: 张祥平, 刘建勋, 扈海泽
     conference_short: 软件学报
     conference: '<strong>软件学报 (Journal of Software)</strong>, 35(12): 5382-5396, 2024.'
+    image: /assets/img/publications/gan_code_search_2024.png
 
   - title: "A survey of code representation based on deep learning and its applications (in Chinese)"
     authors: 张祥平, 刘建勋
     conference_short: 计算机科学与探索
     conference: '<strong>计算机科学与探索 (Journal of Frontiers of Computer Science and Technology)</strong>, 16(9): 2011-2029, 2022.'
     pdf: https://www.sciengine.com/doi/10.3778/j.issn.1673-9418.2110073
+    image: /assets/img/publications/code_repr_survey_2022.png
 
   - title: "Web service representation method fusing multi-dimensional information (in Chinese)"
     authors: 张祥平, 刘建勋, 肖巧翔
     conference_short: 计算机科学与探索
     conference: '<strong>计算机科学与探索 (Journal of Frontiers of Computer Science and Technology)</strong>, 16(7): 1561-1569, 2022.'
+    image: /assets/img/publications/ws_repr_multi_2022.png
 
   - title: "Multi-functional web service clustering based on LDA and fuzzy C-means (in Chinese)"
     authors: 张祥平, 刘建勋, 肖巧翔
     conference_short: 中南大学学报
     conference: '<strong>中南大学学报 (Journal of Central South University)</strong>, 49(12): 2986-2992, 2018.'
+    image: /assets/img/publications/ws_lda_clustering_2018.png
 
   - title: "Web service clustering method based on Word2Vec and LDA topic model (in Chinese)"
     authors: 肖巧翔, 曹步清, 张祥平
