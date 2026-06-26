@@ -82,7 +82,7 @@ main:
     image: /assets/img/publications/placeholder_collab_2023.png
 
   - title: "A Multiple-Path Learning Neural Network Model for Code Completion"
-    authors: Yibiao Liu, Jianxun Liu, Xiangping Zhang, Haize Hu
+    authors: Yi Liu, Jianxun Liu, Xiangping Zhang, Haize Hu
     conference_short: ICWS
     conference: 'IEEE International Conference on Web Services <strong>(ICWS)</strong>, pp. 224-233, 2023.'
     pdf: https://doi.org/10.1109/ICWS60048.2023.00042
