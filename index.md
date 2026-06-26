@@ -24,7 +24,3 @@ I am a researcher at the School of Computer Science and Engineering, Hunan Unive
 - **Ph.D.** in Computer Science and Technology, Hunan University of Science and Technology
 - Supervised by Prof. Jianxun Liu
 
-## Collaborators
-
-- **Prof. Jianxun Liu** (Hunan University of Science and Technology)
-- **Dr. Haiyang Hu**, **Dr. Min Shi**, **Dr. Buqing Cao**, **Dr. Qiaoxiang Xiao**
