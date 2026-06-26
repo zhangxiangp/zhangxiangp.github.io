@@ -3,7 +3,7 @@ main:
   # === English Journal Papers (Selected) ===
 
   - title: "A code completion approach combining pointer network and Transformer-XL network"
-    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Tao Long, Haiyang Hu
+    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Tao Long, Haize Hu
     conference_short: Applied Intelligence
     conference: '<strong>Applied Intelligence</strong>, 55(6), pp. 1-17, 2025.'
     pdf: https://doi.org/10.1007/s10489-025-06315-6
@@ -24,28 +24,28 @@ main:
     image: /assets/img/publications/code_clone_jpdc_2023.png
 
   - title: "A mutual embedded self-attention network model for code search"
-    authors: Haiyang Hu, Jianxun Liu, <strong>Xiangping Zhang*</strong>, Buqing Cao, Shuang Cheng, Tao Long
+    authors: Haize Hu, Jianxun Liu, <strong>Xiangping Zhang*</strong>, Buqing Cao, Shuang Cheng, Tao Long
     conference_short: JSS
     conference: '<strong>Journal of Systems and Software</strong>, 198, 111591, 2023.'
     pdf: https://doi.org/10.1016/j.jss.2022.111591
     image: /assets/img/publications/placeholder_jss_2023.png
 
   - title: "Multilayer self-attention residual network for code search"
-    authors: Haiyang Hu, Jianxun Liu, <strong>Xiangping Zhang</strong>
+    authors: Haize Hu, Jianxun Liu, <strong>Xiangping Zhang</strong>
     conference_short: CCPE
     conference: '<strong>Concurrency and Computation: Practice and Experience</strong>, 35(9), e7650, 2023.'
     pdf: https://doi.org/10.1002/cpe.7650
     image: /assets/img/publications/placeholder_ccpe_2023.png
 
   - title: "An effective and adaptable K-means algorithm for big data cluster analysis"
-    authors: Haiyang Hu, Jianxun Liu, <strong>Xiangping Zhang</strong>, Mingyu Fang
+    authors: Haize Hu, Jianxun Liu, <strong>Xiangping Zhang</strong>, Mingyu Fang
     conference_short: Pattern Recognition
     conference: '<strong>Pattern Recognition</strong>, 139, 109404, 2023.'
     pdf: https://doi.org/10.1016/j.patcog.2023.109404
     image: /assets/img/publications/kmeans_2023.png
 
   - title: "A novel hybrid model for short-term prediction of wind speed"
-    authors: Haiyang Hu, Yang Li, <strong>Xiangping Zhang*</strong>, Mingyu Fang
+    authors: Haize Hu, Yang Li, <strong>Xiangping Zhang*</strong>, Mingyu Fang
     conference_short: Pattern Recognition
     conference: '<strong>Pattern Recognition</strong>, 127, 108623, 2022.'
     pdf: https://doi.org/10.1016/j.patcog.2022.108623
@@ -68,7 +68,7 @@ main:
   # === English Conference Papers ===
 
   - title: "A Code Completion Approach Combining Pointer Network and Transformer-XL Network"
-    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Tao Long, Haiyang Hu
+    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Tao Long, Haize Hu
     conference_short: CollaborateCom
     conference: 'International Conference on Collaborative Computing <strong>(CollaborateCom)</strong>, pp. 303-322, 2023.'
     pdf: https://doi.org/10.1007/978-3-031-54521-4_18
@@ -82,7 +82,7 @@ main:
     image: /assets/img/publications/placeholder_collab_2023.png
 
   - title: "A Multiple-Path Learning Neural Network Model for Code Completion"
-    authors: Yibiao Liu, Jianxun Liu, Xiangping Zhang, Haiyang Hu
+    authors: Yibiao Liu, Jianxun Liu, Xiangping Zhang, Haize Hu
     conference_short: ICWS
     conference: 'IEEE International Conference on Web Services <strong>(ICWS)</strong>, pp. 224-233, 2023.'
     pdf: https://doi.org/10.1109/ICWS60048.2023.00042
