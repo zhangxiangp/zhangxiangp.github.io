@@ -28,12 +28,14 @@ main:
     conference_short: JSS
     conference: '<strong>Journal of Systems and Software</strong>, 198, 111591, 2023.'
     pdf: https://doi.org/10.1016/j.jss.2022.111591
+    image: /assets/img/publications/placeholder_jss_2023.png
 
   - title: "Multilayer self-attention residual network for code search"
     authors: Haiyang Hu, Jianxun Liu, <strong>Xiangping Zhang</strong>
     conference_short: CCPE
     conference: '<strong>Concurrency and Computation: Practice and Experience</strong>, 35(9), e7650, 2023.'
     pdf: https://doi.org/10.1002/cpe.7650
+    image: /assets/img/publications/placeholder_ccpe_2023.png
 
   - title: "An effective and adaptable K-means algorithm for big data cluster analysis"
     authors: Haiyang Hu, Jianxun Liu, <strong>Xiangping Zhang</strong>, Mingyu Fang
@@ -61,6 +63,7 @@ main:
     conference_short: CCPE
     conference: '<strong>Concurrency and Computation: Practice and Experience</strong>, 33(16), e6287, 2021.'
     pdf: https://doi.org/10.1002/cpe.6287
+    image: /assets/img/publications/placeholder_ccpe_2021.png
 
   # === English Conference Papers ===
 
@@ -76,12 +79,14 @@ main:
     conference_short: CollaborateCom
     conference: 'International Conference on Collaborative Computing <strong>(CollaborateCom)</strong>, pp. 323-342, 2023.'
     pdf: https://doi.org/10.1007/978-3-031-54521-4_17
+    image: /assets/img/publications/placeholder_collab_2023.png
 
   - title: "A Multiple-Path Learning Neural Network Model for Code Completion"
     authors: Yibiao Liu, Jianxun Liu, Xiangping Zhang, Haiyang Hu
     conference_short: ICWS
     conference: 'IEEE International Conference on Web Services <strong>(ICWS)</strong>, pp. 224-233, 2023.'
     pdf: https://doi.org/10.1109/ICWS60048.2023.00042
+    image: /assets/img/publications/placeholder_icws_2023.png
 
   - title: "Word embedding-based web service representations for classification and clustering"
     authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Buqing Cao, Min Shi
@@ -102,6 +107,7 @@ main:
     conference_short: SCC
     conference: 'IEEE International Conference on Services Computing <strong>(SCC)</strong>, pp. 1-8, 2018.'
     pdf: https://doi.org/10.1109/SCC.2018.00008
+    image: /assets/img/publications/placeholder_scc_2018.png
 
   # === Chinese Journal Papers (Selected) ===
 
@@ -138,9 +144,11 @@ main:
     conference_short: 中南大学学报
     conference: '<strong>中南大学学报 (Journal of Central South University)</strong>, 49(12): 2979-2985, 2018.'
     pdf: https://doi.org/10.13467/j.cnki.jcsu.2018.12.011
+    image: /assets/img/publications/placeholder_csu_2018.png
 
   - title: "API service recommendation combining SOM functional clustering with DeepFM quality prediction (in Chinese)"
     authors: 曹步清, 肖巧翔, 张祥平
     conference_short: 计算机学报
     conference: '<strong>计算机学报 (Chinese Journal of Computers)</strong>, 42(6): 1367-1383, 2019.'
     pdf: http://cjc.ict.ac.cn/qwjs/view.asp?id=5194
+    image: /assets/img/publications/placeholder_cjc_2019.png
