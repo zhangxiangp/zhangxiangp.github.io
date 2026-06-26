@@ -3,7 +3,7 @@ main:
   # === English Journal Papers (Selected) ===
 
   - title: "A code completion approach combining pointer network and Transformer-XL network"
-    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Tao Long, Haize Hu
+    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Teng Long, Haize Hu
     conference_short: Applied Intelligence
     conference: '<strong>Applied Intelligence</strong>, 55(6), pp. 1-17, 2025.'
     pdf: https://doi.org/10.1007/s10489-025-06315-6
@@ -24,7 +24,7 @@ main:
     image: /assets/img/publications/code_clone_jpdc_2023.png
 
   - title: "A mutual embedded self-attention network model for code search"
-    authors: Haize Hu, Jianxun Liu, <strong>Xiangping Zhang*</strong>, Buqing Cao, Shuang Cheng, Tao Long
+    authors: Haize Hu, Jianxun Liu, <strong>Xiangping Zhang*</strong>, Buqing Cao, Shuang Cheng, Teng Long
     conference_short: JSS
     conference: '<strong>Journal of Systems and Software</strong>, 198, 111591, 2023.'
     pdf: https://doi.org/10.1016/j.jss.2022.111591
@@ -59,7 +59,7 @@ main:
     image: /assets/img/publications/ws_classification_2021.png
 
   - title: "Tatt-BiLSTM: Web service classification with topical attention-based BiLSTM"
-    authors: Guangxue Kang, Yu Xiao, Jianxun Liu, Yulei Cao, Buqing Cao, Xiangping Zhang, Liang Ding
+    authors: Guosheng Kang, Yong Xiao, Jianxun Liu, Yingcheng Cao, Buqing Cao, Xiangping Zhang, Linghang Ding
     conference_short: CCPE
     conference: '<strong>Concurrency and Computation: Practice and Experience</strong>, 33(16), e6287, 2021.'
     pdf: https://doi.org/10.1002/cpe.6287
@@ -68,14 +68,14 @@ main:
   # === English Conference Papers ===
 
   - title: "A Code Completion Approach Combining Pointer Network and Transformer-XL Network"
-    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Tao Long, Haize Hu
+    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Teng Long, Haize Hu
     conference_short: CollaborateCom
     conference: 'International Conference on Collaborative Computing <strong>(CollaborateCom)</strong>, pp. 303-322, 2023.'
     pdf: https://doi.org/10.1007/978-3-031-54521-4_18
     image: /assets/img/publications/code_completion_collab_2023.png
 
   - title: "A Code Search Method Incorporating Code Annotations"
-    authors: Qingyao Li, Jianxun Liu, Xiangping Zhang
+    authors: Qi Li, Jianxun Liu, Xiangping Zhang
     conference_short: CollaborateCom
     conference: 'International Conference on Collaborative Computing <strong>(CollaborateCom)</strong>, pp. 323-342, 2023.'
     pdf: https://doi.org/10.1007/978-3-031-54521-4_17
@@ -96,14 +96,14 @@ main:
     image: /assets/img/publications/ws_embedding_2021.png
 
   - title: "Web service recommendation via combining Doc2Vec-based functionality clustering and DeepFM-based score prediction"
-    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Buqing Cao, Qiaoxiang Xiao, Yi Wen
+    authors: <strong>Xiangping Zhang</strong>, Jianxun Liu, Buqing Cao, Qiaoxiang Xiao, Yiping Wen
     conference_short: ISPA
     conference: 'IEEE Intl Conf on Parallel & Distributed Processing with Applications <strong>(ISPA)</strong>, pp. 509-516, 2018.'
     pdf: https://doi.org/10.1109/ISPA-UCC-BDCloud-SocialCom-SustainCom.2018.00083
     image: /assets/img/publications/ws_recommendation_2018.png
 
   - title: "A prior knowledge based approach to improving accuracy of web services clustering"
-    authors: Min Shi, Jianxun Liu, Buqing Cao, Yi Wen, Xiangping Zhang
+    authors: Min Shi, Jianxun Liu, Buqing Cao, Yiping Wen, Xiangping Zhang
     conference_short: SCC
     conference: 'IEEE International Conference on Services Computing <strong>(SCC)</strong>, pp. 1-8, 2018.'
     pdf: https://doi.org/10.1109/SCC.2018.00008
